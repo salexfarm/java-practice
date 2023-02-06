@@ -1,3 +1,5 @@
+package main.java.string;
+
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
